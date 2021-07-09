@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<Lottie loop={true} path="./67017-code-animation.json" />
+
 <!--
 **Anirudh4583/Anirudh4583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
