@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![test](67017-code-animation.gif)
+![test](67017-code-animation (1).gif)
 
 <!--
 **Anirudh4583/Anirudh4583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
