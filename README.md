@@ -3,7 +3,8 @@
 <!--
 **Anirudh4583/Anirudh4583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_M4t9nS.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
