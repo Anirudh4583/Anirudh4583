@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align='center'>
-<img src='gif/dev.gif' alt='gif'></img>
+<img src='gif/dev2.gif' alt='gif'></img>
 </div>
 
 <!--
