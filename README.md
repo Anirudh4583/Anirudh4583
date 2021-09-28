@@ -1,8 +1,4 @@
-## Hi there 👋
 
-<div align='center'>
-<img src='gif/dev2.gif' alt='gif'></img>
-</div>
 
 <!--
 **Anirudh4583/Anirudh4583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +14,11 @@
  -->
 
 <h1 align="center">Hi 👋, I'm Anirudh Mitra</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
+<h3 align="center">Student | Full-Stack Developer | Open-source contributor</h3>
+
+<div align='center'>
+<img src='gif/dev2.gif' alt='gif'></img>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh4583&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh4583" /> </p>
 
