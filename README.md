@@ -30,13 +30,13 @@
 
 - 🌱 I’m currently learning **Next.JS, Typescript, Apollo, TypeORM +100 other things**
 
-- 👯 I’m looking to collaborate on **Opensource projects**
+- 👯 I’m looking to collaborate on **Open Source projects**
 
 - 🤝 I’m looking for help with **DSA😢**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anirudh4583](https://github.com/Anirudh4583)
+- 👨‍💻 All of my projects are available at [github/Anirudh4583](https://github.com/Anirudh4583)
 
-- 💬 Ask me about **React or music🎼 or maybe both**
+- 💬 Ask me about **React or Music🎼 or maybe both**
 
 - 📫 How to reach me **anirudhmitra210@gmail.com**
 
