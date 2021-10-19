@@ -20,11 +20,12 @@
 <img src='gif/dev2.gif' alt='gif'></img>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh4583&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh4583" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudh4583&row=1&column=3" alt="anirudh4583" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudh4583&row=1" alt="anirudh4583" /></a> </p>
 <!-- 
 <p align="left"> <a href="https://twitter.com/brownvitriol" target="blank"><img src="https://img.shields.io/twitter/follow/brownvitriol?logo=twitter&style=for-the-badge" alt="brownvitriol" /></a> </p> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh4583&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh4583" /> </p>
+
 
 - 🔭 I’m currently working on **ReadAura (sshhh!!)**
 
@@ -94,7 +95,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudh4583&show_icons=true&locale=en" alt="anirudh4583" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh4583&show_icons=true&locale=en&layout=compact" alt="anirudh4583" /></p> -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh4583&show_icons=true&locale=en&layout=compact&langs_count=8&hide=jupyter%20%notebook" alt="anirudh4583" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh4583&" alt="anirudh4583" /></p>
