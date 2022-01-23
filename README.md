@@ -24,7 +24,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh4583&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh4583" /> </p>
 
-- 🔭 I’m currently working on **[Bluepad.in](www.bluepad.in){:target="_blank"}**
+- 🔭 I’m currently working on **[Bluepad.in](https://www.bluepad.in/)**
 
 - 🌱 I’m currently learning **Next.JS, Apollo, SEO + 100 other things**
 
