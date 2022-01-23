@@ -24,9 +24,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh4583&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh4583" /> </p>
 
-- 🔭 I’m currently working on **ReadAura (sshhh!!)**
+- 🔭 I’m currently working on **Bluepad.in (sshhh!!)**
 
-- 🌱 I’m currently learning **Next.JS, Typescript, Apollo, TypeORM +100 other things**
+- 🌱 I’m currently learning **Next.JS, Apollo, SEO + 100 other things**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
