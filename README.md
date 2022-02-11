@@ -24,11 +24,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh4583&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh4583" /> </p>
 
-- 🔭 I’m currently working on **[Bluepad.in](https://www.bluepad.in/)**
+- 🔭 I’m currently working on **Shezh**
 
-- 🌱 I’m currently learning **Next.JS, Apollo, SEO + 100 other things**
+- 🌱 I’m currently learning **Python, Jupyter & Machine Learning📊**
 
-- 👯 I’m looking to collaborate on **Open Source projects**
+- 👯 I’m looking to collaborate on **Open Source projects📖**
 
 - 🤝 I’m looking for help with **DSA😢**
 
